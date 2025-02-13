@@ -76,7 +76,7 @@ Memory Location: Mark your memories with a specific location on the map.
 Feel free to fork the repository, make changes, and submit pull requests. Please follow the standard code of conduct, and ensure that your changes are tested.
 
 ## Deploy Your App
-You can access the deployed application at: [your-app-deployment-link].
+You can access the deployed application at: https://astounding-zuccutto-93b66a.netlify.app/posts.
 
 ## Acknowledgments
 React: Frontend library for building the user interface.
